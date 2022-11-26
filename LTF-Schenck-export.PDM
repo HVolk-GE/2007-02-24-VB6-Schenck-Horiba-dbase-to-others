@@ -1,0 +1,2283 @@
+[Root]
+Most Recent Package=24-02-2007-Standardm‰ﬂiges Setup-Paket 12
+
+
+[Package|DEP-Schenckdbftoothers 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup
+
+[Package|DEP-Schenckdbftoothers 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|DEP-Schenckdbftoothers 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-Schenckdbftoothers 1|Files Found]
+
+[Package|DEP-Schenckdbftoothers 1|Files Released]
+
+[Package|DEP-Schenckdbftoothers 1|Missing Dependency Information]
+
+[Package|DEP-Schenckdbftoothers 1|Out-of-Date Dependency Information]
+
+[Package|DEP-Schenckdbftoothers 1|Files Added]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=
+
+[Package|DEP-Schenckdbftoothers 1|Files Removed]
+
+[Package|DEP-Schenckdbftoothers 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|DEP-Schenckdbftoothers 1|Configure Registry Files]
+Applicable=
+
+[Package|DEP-Schenckdbftoothers 1|Configure Remote Servers]
+Applicable=
+
+[Package|DEP-Schenckdbftoothers 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|DEP-Schenckdbftoothers 1|Configure Shared Files]
+Applicable=
+
+[Package|DEP-Schenckdbftoothers 1|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|DEP-Schenckdbftoothers 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup\Schenck-dbf-to-others.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Files Released]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Files Removed]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=Little tools farmÆ Schenck konverter dbf files to other formats !
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenck konv. dbf files to other formats
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\08-04-2006 dbf-files to others format-setup\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2-08-04-2006 dbf-files to others format-setup
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Files Found]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Files Released]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Files Removed]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Distribution]
+Type=single
+Size=
+Title=Little tools farmÆ Schenck konverter dbf files to other formats !
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenck konv. dbf files to other formats
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 2|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2-08-04-2006 dbf-files to others format-setup
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2-08-04-2006 dbf-files to others format-setup\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2-08-04-2006 dbf-files to others format-setup\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2-08-04-2006 dbf-files to others format-setup\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\09-04-2006 dbf-files to others format-setup
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Files Found]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Files Released]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Files Removed]
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Distribution]
+Type=single
+Size=
+Title=Little tools farmÆ Schenck konv. dbf-files to other formats !
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenck konv. dbf files to other formats
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Schenck dbf to others Setup-Paket 3|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\09-04-2006 dbf-files to others format-setup
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\09-04-2006 dbf-files to others format-setup\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\09-04-2006 dbf-files to others format-setup\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\09-04-2006 dbf-files to others format-setup\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Files Found]
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Files Released]
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Missing Dependency Information]
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Files Added]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Files Removed]
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Configure Registry Files]
+Applicable=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Configure Remote Servers]
+Applicable=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Configure Shared Files]
+Applicable=
+
+[Package|DEP-10.04.2006-Setup-Packet 1|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|DEP-10.04.2006-Setup-Packet 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat\Schenck-dbf-to-others.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Distribution]
+Type=single
+Size=
+Title=Schenckfiles to other Format (konv.)
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 10.04.2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\10-04-2006 Schenck-dbf-files-to-other-fileformat\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\11-04-2006-Schenckfiles to other format
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Distribution]
+Type=single
+Size=
+Title=Schenckfiles to other Format (konv.)
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 11.04.2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\11-04-2006-Schenckfiles to other format
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\11-04-2006-Schenckfiles to other format\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\11-04-2006-Schenckfiles to other format\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\11-04-2006-Schenckfiles to other format\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2006-04-27-Schenck-create-others-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\auswert.dbf=
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\schenck-dbf-to-others\dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Distribution]
+Type=single
+Size=
+Title=Schenckfiles to other Format (konv.) 26-04-2006
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 26.04.2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2006-04-27-Schenck-create-others-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2006-04-27-Schenck-create-others-files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2006-04-27-Schenck-create-others-files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\2006-04-27-Schenck-create-others-files\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\2006-08-12-Schenck-create-others-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Files Found]
+AUSWERT.DBF=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Distribution]
+Type=single
+Size=
+Title=Schenckfiles to other Format (konv.) 12-08-2006
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 12.08.2006|Package]
+PackageFolder=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\2006-08-12-Schenck-create-others-files
+ProjectFolder=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\2006-08-12-Schenck-create-others-files\setup.exe
+File2=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\2006-08-12-Schenck-create-others-files\Setup.Lst
+File3=C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\2006-08-12-Schenck-create-others-files\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (2)
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Files Found]
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Distribution]
+Type=single
+Size=
+Title=Schenckfiles to other Format (konv.31-08-2006)
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 31.08.2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (2)
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (2)\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (2)\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (2)\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (3)
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Files Found]
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF
+dbfdata.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|DepFile]
+DepCabFile=Schenck-dbf-to-others.CAB
+DepCabRun=Schenck-dbf-to-others.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Distribution]
+Type=single
+Size=
+Title=Schenck dbf-files to country-csv-files (konv.01-09-2006)
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 01.09.2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (3)
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (3)\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (3)\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (3)\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Files Found]
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF
+dbfdata.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Files Released]
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Missing Dependency Information]
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Files Removed]
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Configure Registry Files]
+Applicable=No
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Configure Remote Servers]
+Applicable=No
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|DepFile]
+DepCabFile=Horiba Schenck-dbf-to-country-csv.CAB
+DepCabRun=Schenck-dbf-to-country-csv.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Distribution]
+Type=single
+Size=
+Title=Schenck dbf-files to country-csv-files (konv.01-09-2006)
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|01.09.2006 Horiba_Schenck-dbf-to-country-csv|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Files Found]
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF
+dbfdata.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Files Released]
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Missing Dependency Information]
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Files Removed]
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Configure Registry Files]
+Applicable=No
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Configure Remote Servers]
+Applicable=No
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|DepFile]
+DepCabFile=Horiba Schenck-dbf-to-country-csv.CAB
+DepCabRun=Schenck-dbf-to-country-csv.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Distribution]
+Type=single
+Size=
+Title=Schenck dbf-to-country-csv-files (konv.01-09-2006)
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|01-09-2006-Standardm‰ﬂiges Setup-Paket 10|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup_01-2007
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Files Found]
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Files Released]
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Missing Dependency Information]
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Files Removed]
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Configure Registry Files]
+Applicable=No
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Configure Remote Servers]
+Applicable=No
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|DepFile]
+DepCabFile=Horiba Schenck-dbf-to-country-csv.CAB
+DepCabRun=Schenck-dbf-to-country-csv.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Distribution]
+Type=single
+Size=
+Title=Schenck dbf-to-country-csv-files (konv.29-01-2007)
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=Schenckfiles to other Format (konv.)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|29-01-2007-Standardm‰ﬂiges Setup-Paket 11|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup_01-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup_01-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup_01-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner (4)\Setup_01-2007\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\kompilert
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Files Found]
+dbfdata.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\dbfdata.ini
+AUSWERT.DBF=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\AUSWERT.DBF
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Files Released]
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Missing Dependency Information]
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\Mscomct2.ocx=
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Files Added]
+auswert.dbf=
+dbfdata.ini=
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Files Removed]
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\DBRPRDE.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2DE.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCDE.DLL=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\Schenck-dbf-to-others.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\AUSWERT.DBF=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\dbfdata.ini=Yes
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Configure Registry Files]
+Applicable=No
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Configure Remote Servers]
+Applicable=No
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\DBRPRDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\Schenck-dbf-to-others.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\AUSWERT.DBF=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\dbfdata.ini=$(AppPath)
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Visual_D\Eigene Entwicklungen\Quell Code VB 6 Prof-Stand-05-06-2006\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\Neuer Ordner\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Little-Tools-Farm\Privater Gebrauch\Schenck-dbf-to-others\dbfdata.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\Schenck-dbf-to-others.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\AUSWERT.DBF=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\dbfdata.ini=No
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|DepFile]
+DepCabFile=Horiba Schenck-dbf-to-country-csv.CAB
+DepCabRun=Schenck-dbf-to-country-csv.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Distribution]
+Type=single
+Size=
+Title=LTF-Horiba [Schenck] to-csv-files (beta2)
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Little tools FarmÆ-DB-Tools]
+Icon1=Schenck-dbf-to-others.exe
+Title1=LTF-Schenckfiles to csv Format (beta2) 24-2-07
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|24-02-2007-Standardm‰ﬂiges Setup-Paket 12|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\kompilert
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\kompilert\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\kompilert\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\24-02-2007-Schenck-dbf-to-others\kompilert\Schenck-dbf-to-others.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
